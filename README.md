@@ -12,7 +12,7 @@
 
 ### 📌 Current Projects
 - AI feedback agent
-- Shadow project
+- Shadow project deployed Q1 2026
 
 ### 📫 Contact
 - Email: TBC
